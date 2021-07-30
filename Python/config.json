@@ -1,0 +1,9 @@
+{
+    "PostgreSQL_config": {
+        "host": "host name",
+        "port": number,
+        "dbname": "dbname",
+        "user": "user",
+        "password": "password"
+    }
+}
